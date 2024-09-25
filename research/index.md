@@ -9,3 +9,14 @@ extracting our publications into **yet another format**.  While we work on creat
 a unified list of publications on the web that is (hopefully) easy to maintain --- you might find an unofficial list on 
 [Rob's Google Scholar page](https://scholar.google.com/citations?user=H36hOqEAAAAJ&hl=en).
 Testing again
+asdf
+asdfas
+df
+asdf
+asdfas
+df
+asdfa
+df
+as
+df
+asdfasdfa
